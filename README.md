@@ -13,5 +13,5 @@ The issues mentioned here are being worked on for a future release.
 
 ## Download
 There are two files available for download:
-- [The scripts in a zip file](JAWS-PuTTY-Scripts/putty.zip): To install these scripts, extract the files in the zip archive to `%appdata%\Freedom Scientific\JAWS\Settings\enu`.
+- [The scripts in a zip file](putty.zip): To install these scripts, extract the files in the zip archive to `%appdata%\Freedom Scientific\JAWS\Settings\enu`.
 - [The JAWS 18 Settings File](JAWS-PuTTY-Scripts/PuTTY.sbak): To install the scripts in this package using JAWS 18 or higher, use the Import Wizard by going to the JAWS window, then selecting `Utilities -> Import/Export -> Import Settings`.
