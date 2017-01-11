@@ -1,5 +1,6 @@
 # JAWS PuTTY Scripts
 For a long while now, PuTTY has been a popular choice for SSH and terminal sessions. Unfortunately, for users of the JAWS screen reader, the PuTTY terminal window has remained inaccessible. These scripts make the PuTTY application accessible to users of the JAWS screen reader.
+
 ## Issues That These Scripts Correct
 - JAWS does not track the cursor properly in PuTTY. As a result, As you arrow left or right over the input line, the screen reader will not accurately announce where the cursor is situated. This makes editing files difficult in the terminal. With these scripts, you can arrow left and right over the input line and the correct character is announced.
 - JAWS also does not automatically read PuTTY output. As a result, when you issue a command, you have to use the JAWS Cursor to review the text that the terminal session returned. With these scripts, PuTTY output is automatically read by JAWS.
@@ -9,6 +10,7 @@ For a long while now, PuTTY has been a popular choice for SSH and terminal sessi
 The issues mentioned here are being worked on for a future release.
 - The BACKSPACE key reports "Space" or "blank" as you press it to delete text on the input line, when it should report the character that was deleted.
 - If you arrow over a whitespace character, JAWS remains silent.
+
 ## Download
 There are two files available for download:
 - [The scripts in a zip file]( JAWS-PuTTY-Scripts/putty.zip): To install these scripts, extract the files in the zip archive to `%appdata%\Freedom Scientific\JAWS\Settings\enu`.
