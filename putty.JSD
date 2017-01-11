@@ -1,0 +1,19 @@
+:function readNewText
+:SearchRank 1
+:Synopsis Reads new text
+
+:script SayPriorLine
+:SearchRank 1
+
+:script SayNextLine
+:SearchRank 1
+
+:script SayCharacter
+:SearchRank 1
+
+:script SayPriorCharacter
+:SearchRank 1
+
+:script SayNextCharacter
+:SearchRank 1
+

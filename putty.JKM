@@ -1,0 +1,6 @@
+[Common Keys]
+UpArrow=SayPriorLine
+DownArrow=SayNextLine
+JAWSKey+,=SayCharacter
+LeftArrow=SayPriorCharacter
+RightArrow=SayNextCharacter
