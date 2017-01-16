@@ -17,3 +17,23 @@
 :script SayNextCharacter
 :SearchRank 1
 
+:script JAWSBackspace
+:SearchRank 1
+
+:function SpeakPhoneticAndValueHook
+:Returns int No Return Description
+:SearchRank 1
+:Param string/scriptName No Description
+
+:function sayAccordingToHook
+:SearchRank 1
+:Param string/s No Description
+
+:function readNewCharacter
+:SearchRank 1
+:Param int/direction No Description
+:Param int/col No Description
+
+:function monitorForPixelChange
+:SearchRank 1
+

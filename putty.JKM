@@ -4,3 +4,4 @@ DownArrow=SayNextLine
 JAWSKey+,=SayCharacter
 LeftArrow=SayPriorCharacter
 RightArrow=SayNextCharacter
+BackSpace=JAWSBackspace
