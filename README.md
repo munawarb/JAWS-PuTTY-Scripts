@@ -1,5 +1,5 @@
 # JAWS PuTTY Scripts
-For a long while now, PuTTY has been a popular choice for SSH and terminal sessions. While terminal windows read well using screen readers such as [NVDA](www.nvaccess.org) because the developers took time to make terminal windows accessible, [JAWS](www.freedomscientific.com) support for PuTTY does not exist, and there is no indication of Freedom Scientific-supported support for terminal windows coming in the near future.
+For a long while now, PuTTY has been a popular choice for SSH and terminal sessions. While terminal windows read well using screen readers such as [NVDA](http://www.nvaccess.org) because the developers took time to make terminal windows accessible, [JAWS](http://www.freedomscientific.com) support for PuTTY does not exist, and there is no indication of Freedom Scientific-supported support for terminal windows coming in the near future.
 
 In light of this, I took it upon myself to write scripts for JAWS and PuTTY, because I use it at work on a regular basis, and JAWS' lack of support for this terminal application was slowing me down. These scripts make PuTTY accessible to JAWS users.
 
